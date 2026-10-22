@@ -8,6 +8,10 @@ app_port: 7860
 pinned: false
 ---
 
+> **作品存档（未部署）**：仓库根目录展示核心源码；完整目录和静态资源请下载[完整项目 ZIP](./Veritas_Media_Lab_完整部署包_20261022.zip)。压缩包不含 API Key、`.env` 密钥文件或本机历史数据库。
+>
+> 
+
 # Veritas Media Lab
 
 这是一个基于 Flask 与前端页面的 AI 新闻核查和媒体认知实验平台。
