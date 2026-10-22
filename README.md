@@ -4,7 +4,7 @@
 
 **Veritas Media Lab** is an independent portfolio project exploring how artificial intelligence and digital media can help people examine online claims. It brings structured AI analysis, live search references, and an immersive editorial-style interface into one interactive experience.
 
-> **作品集项目｜原型阶段，未公开部署**  
+> **作品集项目｜已公开部署**  
 > 完整项目文件与静态资源：[下载完整项目 ZIP](./Veritas_Media_Lab_完整部署包_20261022.zip)。压缩包不包含 API Key、.env 密钥文件或本机历史数据库。
 
 **中文简介**  
